@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/LibraryFine/LibraryFine.iml" filepath="$PROJECT_DIR$/LibraryFine/LibraryFine.iml" />
       <module fileurl="file://$PROJECT_DIR$/MissingInteger/MissingInteger.iml" filepath="$PROJECT_DIR$/MissingInteger/MissingInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveNum/RemoveNum.iml" filepath="$PROJECT_DIR$/RemoveNum/RemoveNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseStrings/ReverseStrings.iml" filepath="$PROJECT_DIR$/ReverseStrings/ReverseStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/[ex0]_hello_world/[ex0]_hello_world.iml" filepath="$PROJECT_DIR$/[ex0]_hello_world/[ex0]_hello_world.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
